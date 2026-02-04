@@ -2,10 +2,10 @@
 <h3 align="center">Backend & AI Engineer | Building Scalable Systems & Intelligent Products</h3>
 
 <p align="center">
-  <img src="assets/hero.gif" width="520" alt="hero animation">
+  <img src="hero.gif" width="520" alt="hero animation">
 </p>
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ## 💫 About Me
 
@@ -19,7 +19,7 @@ I work primarily on:
 
 I enjoy turning complex problems into **simple, reliable systems** and collaborating closely with teams to ship impactful products.
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ## 🚀 Current Focus
 
@@ -27,7 +27,7 @@ I enjoy turning complex problems into **simple, reliable systems** and collabora
 - LLM-based intent classification & orchestration using LangGraph  
 - Backend performance, system design & developer tooling  
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ## 🧠 Core Skills
 
@@ -36,7 +36,7 @@ I enjoy turning complex problems into **simple, reliable systems** and collabora
 - **Databases & Infra**: SQL, caching, background workers
 - **Developer Experience**: tooling, automation, clean abstractions
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ## 💻 Tech Stack
 
@@ -53,7 +53,7 @@ I enjoy turning complex problems into **simple, reliable systems** and collabora
 
 </p>
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ## 📌 Featured Projects
 
@@ -63,7 +63,7 @@ I enjoy turning complex problems into **simple, reliable systems** and collabora
 
 👉 Check pinned repositories below for detailed implementations.
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ## 📫 Connect With Me
 
@@ -71,7 +71,7 @@ I enjoy turning complex problems into **simple, reliable systems** and collabora
 - 🌐 Portfolio: <your-portfolio>
 - 📧 Email: <your-email>
 
-<img src="assets/divider.gif">
+<img src="divider.gif">
 
 ### ✍️ Random Dev Quote
 <p align="center">
