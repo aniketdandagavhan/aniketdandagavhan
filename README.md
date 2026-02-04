@@ -67,9 +67,9 @@ I enjoy turning complex problems into **simple, reliable systems** and collabora
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: <your-link>
-- 🌐 Portfolio: <your-portfolio>
-- 📧 Email: <your-email>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/aniket-%E3%82%A2%E3%83%8B%E3%82%AF%E3%83%88-dandagavhan-95aa891b6/" target="_blank">linkedin.com/in/aniket-dandagavhan</a>
+- 🌐 Portfolio: <a href="https://dandagavhan.in" target="_blank">dandagavhan.in</a>
+- 📧 Email: <a href="mailto:aniketdandagavhan@gmail.com">aniketdandagavhan@gmail.com</a>
 
 <img src="divider.gif">
 
