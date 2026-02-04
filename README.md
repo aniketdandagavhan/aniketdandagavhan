@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aniket 👋
 
-<!--
-**aniketdandagavhan/aniketdandagavhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend / AI Engineer  
+Building scalable systems • AI-driven products • Open source
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Backend systems (Python, Node.js, TypeScript)
+- AI / LLM systems (RAG, LangGraph, agents)
+- System design, APIs, scalability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Working On
+- AI-driven Scrum management platform
+- LLM-powered intent classification & workflow orchestration
+
+## 🛠 Tech Stack
+Python • Node.js • TypeScript • FastAPI • Docker • GitHub Actions • PostgreSQL • Redis • LLMs
+
+## 📌 Featured Projects
+- **OpenLovable** – Open-source lovable product
+- **ChatBotLangGraph** – Agent-based conversational workflows
+- **easy-captions** – Caption generation using ML
+
+## 📫 Reach Me
+- LinkedIn: …
+- Portfolio: …
